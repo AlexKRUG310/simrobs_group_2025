@@ -6,6 +6,7 @@
 
 
 Use method described in ```SRS/lecture_1/lecture_1.pdf```.
+
 4. #Try to solve analytically the ODE you composed. If you can't solve it, describe the reason and why?
   
 
